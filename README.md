@@ -1,4 +1,4 @@
-# HealthCare Analytics Dashboard
+# HealthCare Industry Dynamics Dashboard
 This project highlights the exploration of the healthcare landscape spanning from 2019 to 2020. This project provides an analysis of key facets within the U.S. healthcare system. It offers profound insights and valuable learnings within the intricate world of U.S. healthcare. This project contains the exploration of the evolving landscape of healthcare data from 2019 to 2020.
 
 
